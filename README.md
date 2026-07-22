@@ -6,6 +6,7 @@ Currently founding developer at [PodFirst](https://podfirst.com), building tools
 
 ## Building
 
+- **[commitreview](https://github.com/dymoo/commitreview)** — open source AI code review as a GitHub Action, and a self-hostable answer to Codex cloud review. Reads your whole codebase rather than just the diff, then tries to disprove everything it finds before it opens its mouth. Bring your own key, any OpenAI-compatible endpoint, no service in the middle.
 - **[fusion](https://github.com/dymoo/fusion)** — local fusion model provider. OpenAI- and Anthropic-compatible endpoints, routing to a single model or a panel of models aggregated by a judge. Works with Claude Code.
 - **[media-understanding](https://github.com/dymoo/media-understanding)** — teaching machines to actually watch and listen, not just transcribe.
 - **[CodeThenShip](https://codethenship.com)** — free community where I teach coding by shipping real projects. AI is coming for vibe coders. Don't be one. Learn to actually build.
