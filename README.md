@@ -2,7 +2,7 @@
 
 Self-taught since 13. Sold my first software company at 16 for $60K, the second for mid-six figures. Founded ventures since — some worked, some didn't. The failures taught more.
 
-Currently founding developer at [PodFirst](https://podfirst.com), building tools for podcast creators.
+Currently a senior AI engineer.
 
 ## Building
 
